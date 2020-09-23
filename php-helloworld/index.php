@@ -1,3 +1,3 @@
 <?php
-print "Hello, World! php version is " . PHP_VERSION . "\n";
+${RHT_OCP4_WILDCARD_DOMAIN}
 ?>
